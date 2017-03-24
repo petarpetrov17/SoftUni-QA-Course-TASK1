@@ -1,2 +1,2 @@
-When the accountant introduce negative money...
-This problem has to be fix.
+The bug was fixed by developer number 2.
+end topic
